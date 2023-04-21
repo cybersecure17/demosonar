@@ -82,9 +82,7 @@
     </profile>
   </profiles>
 </project>
-
 <properties>
-  <sonar.projectKey>cybersecure17_sonar-scanning-examples</sonar.projectKey>
   <sonar.organization>cybersecure17</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
